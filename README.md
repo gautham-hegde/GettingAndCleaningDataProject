@@ -8,10 +8,10 @@ Steps
 ----------
 - Get the dataset from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 - Unzip the dataset in the same location as the run_analysis.R file such that there is a folder called UCI HAR Dataset
--source the run_analysis.R file
+- Source the run_analysis.R file
 
 Output
 ---------
 Two text files are produced as the output of this script
-tidy_data_set.txt - result of step 4
-tidy_data_average.txt - result of step 5
+ - tidy_data_set.txt - result of step 4
+ - tidy_data_average.txt - result of step 5
